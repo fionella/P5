@@ -1,32 +1,4 @@
 body {
   font-family: cursive;
-    font-size: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-    width: 100%;
-    height: 100vh;
-    background-color: : #FFE4C4;
-
-main img {
-  width: 300px;
-  height: 300px;
-  border-right: 4px solid;
-  border-left: 4px solid;
-  border-top: 4px solid;
-  border-bottom: 4px solid;
 }
 
-main h2 {
-  font-size: 150%;
-  padding-top: 1.5ems;
-  padding-bottom: 2ems;
-  padding-right: 30px;
-  padding-left: 30px;
-  border-top: 3px solid;
-  border-bottom: 3px solid;
-}
-figure li{
-  text-decoration: none;
-}
